@@ -11,6 +11,7 @@
 # style appears to the entire document, except for the cells that are specifically 
 # protected.
 #
+# (Tested with version 3.4.25.)
 #
 # (c) 2022 Zachary Kurmas
 #

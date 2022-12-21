@@ -13,6 +13,8 @@
 # Notice that by using a ColumnRange object, the empty cells below the populated columns
 # are also locked.
 #
+# (Tested with version 3.4.25.)
+#
 # (c) 2022 Zachary Kurmas
 #
 #######################################################################################
